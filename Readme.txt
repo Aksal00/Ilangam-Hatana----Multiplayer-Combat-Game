@@ -1,3 +1,3 @@
-Extract the assets folder inside your game folder.
+Extract the assets.part1 inside your game folder.
 
 Good luck!
