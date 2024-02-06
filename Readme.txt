@@ -1,4 +1,4 @@
-# Ilangam-Hatana(ඉලංගම් හටන)----Multiplayer-Combat-Game
+# Ilangam-Hatana(ඉලංගම් හටන) - Multiplayer Combat Game
 
 Ilangam Hatana is an 2D combat game developed using Python and the Pygame library. Drawing inspiration from the rich heritage of Sinhalese martial art, this game offers players an immersive experience in a virtual battlefield. Engage in thrilling combat, showcasing your strategic prowess and reflexes to emerge victorious against your opponent.
 
