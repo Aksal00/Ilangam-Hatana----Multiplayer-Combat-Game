@@ -15,25 +15,25 @@ Ilangam Hatana is an 2D combat game developed using Python and the Pygame librar
 
 Multiplayer Mode:
 
--**Engage in thrilling head-to-head combat with friends.
--**Test your skills and strategies against real opponents for an immersive gaming experience.
+- **Engage in thrilling head-to-head combat with friends.
+- **Test your skills and strategies against real opponents for an immersive gaming experience.
 
 Single Player Mode:
 
--**Embark on a solo adventure, challenging AI opponents to showcase your martial arts prowess.
+- **Embark on a solo adventure, challenging AI opponents to showcase your martial arts prowess.
 
 Selectable Fighting Locations:
 
 Day/Night Settings:
 
--**Tailor the atmosphere of your battles by choosing between day and night settings.
--**Experience the game's dynamic visuals as the time of day affects the look and feel of each fight.
+- **Tailor the atmosphere of your battles by choosing between day and night settings.
+- **Experience the game's dynamic visuals as the time of day affects the look and feel of each fight.
 
 Adjustable Fighting Time:
 
 Variable Round Options:
 
--**Define the number of rounds per match to suit your preferred gameplay style.
+- **Define the number of rounds per match to suit your preferred gameplay style.
 
 
 
