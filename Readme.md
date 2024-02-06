@@ -19,25 +19,22 @@ Ilangam Hatana is an 2D combat game developed using Python and the Pygame librar
 
 **Key Features:**
 
-1) Multiplayer Mode:
+**1) Multiplayer Mode:**
 
 - Engage in thrilling head-to-head combat with friends.
 - Test your skills and strategies against real opponents for an immersive gaming experience.
 
-2) Single Player Mode:
+**2) Single Player Mode:**
 
 - Embark on a solo adventure, challenging AI opponents to showcase your martial arts prowess.
 
-3) Selectable Fighting Locations:
+**3) Selectable Fighting Locations:**
 
-4) Day/Night Settings:
+**4) Day/Night Settings:**
 
 - Tailor the atmosphere of your battles by choosing between day and night settings.
-- Experience the game's dynamic visuals as the time of day affects the look and feel of each fight.
 
-5) Adjustable Fighting Time:
-
-6) Variable Round Options:
+**5) Variable Round Options:**
 
 - Define the number of rounds per match to suit your preferred gameplay style.
 
@@ -46,6 +43,13 @@ Ilangam Hatana is an 2D combat game developed using Python and the Pygame librar
 ![Screenshot (170)](https://github.com/Aksal00/Ilangam-Hatana----Multiplayer-Combat-Game/assets/110421821/14d2b779-baa8-487d-a75f-30fa46c74437)
 
 ![Screenshot (165)](https://github.com/Aksal00/Ilangam-Hatana----Multiplayer-Combat-Game/assets/110421821/03433a10-08e1-4f48-b720-446490680b18)
+
+**How to Use:**
+1. Clone the repository to your local machine.
+2. Go to the downloaded folder.
+3. To install the game, run this command in CMD. 
+
+    pyinstaller --name ඉලංගම්_හටන_(Ilangam_Hatana) main.py --onefile --windowed --add-data "assets/audio/*;assets/audio" --add-data "assets/fonts/*;assets/fonts" --add-data "assets/images/*;assets/images" --add-     data "assets/videos/*;assets/videos" --icon "assets\icon.ico"
 
 
 #GameDevelopment #Python hashtag #Pygame #IndieGameDev #GamingCommunity #SriLanka #CulturalHeritage #IlangamHatana #TwoPlayerCombatGame
