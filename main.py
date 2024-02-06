@@ -27,7 +27,7 @@ mixer.init()
 #defining screen size
 screen_width = 1280
 screen_height = int(screen_width*(9/16))
-screen = pygame.display.set_mode((screen_width,screen_height))
+screen = pygame.display.set_mode((screen_width,screen_height),pygame.FULLSCREEN)
 
 pygame.display.set_caption("Ilangam Hatana")
 timer = pygame.time.Clock()
